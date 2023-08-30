@@ -1,0 +1,21 @@
+{
+  "name": "kreyalogicphp/kreyalogic",
+  "description": "The Kreyalogic PHP Framework.",
+  "type": "library",
+  "keywords": ["framework"],
+  "license": "MIT",
+  "require": {
+    "php": ">=8.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Kreyalogic\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Jorge Peraza",
+      "email": "jorge@monkeys.cloud"
+    }
+  ]
+}
