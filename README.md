@@ -1,6 +1,6 @@
-# Kreyalogic Framework
+# Monkeyslegion Framework
 
-Kreyalogic is a cutting-edge PHP framework designed to offer a comprehensive set of features for modern web application development. It aims to be fast, flexible, and developer-friendly, providing a unique set of tools for building scalable and maintainable applications.
+Monkeyslegion is a cutting-edge PHP framework designed to offer a comprehensive set of features for modern web application development. It aims to be fast, flexible, and developer-friendly, providing a unique set of tools for building scalable and maintainable applications.
 
 ## Features
 
@@ -52,13 +52,13 @@ Kreyalogic comes with a custom console tool to help you manage your project. You
 To generate a new entity:
 
 ```bash
-./kreyalogic-cli.php generate:entity
+./monkeyslegion-cli.php generate:entity
 ```
 
 To set up a new project:
 
 ```bash
-./kreyalogic-cli.php setup:project
+./monkeyslegion-cli.php setup:project
 ```
 
 ## Documentation
